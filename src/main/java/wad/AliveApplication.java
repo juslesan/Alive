@@ -11,11 +11,11 @@ public class AliveApplication {
     }
 
     public static String githubUrl() {
-        return "";
+        return "https://github.com/juslesan/Alive";
     }
 
     public static String travisUrl() {
-        return "";
+        return "https://travis-ci.org/juslesan/Alive";
     }
 
     public static String herokuUrl() {
